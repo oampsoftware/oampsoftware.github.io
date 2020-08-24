@@ -3,7 +3,7 @@
 
 AUTHOR = 'Geoff Nichols'
 SITENAME = 'OAMP Software'
-SITEURL = ''
+SITEURL = 'https://www.oampsoftware.com'
 
 PATH = 'content'
 
